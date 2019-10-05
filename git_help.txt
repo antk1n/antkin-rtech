@@ -7,3 +7,7 @@
 
 "git add <file_name>" - добавить файл в отслеживыемые, сделать его unmodified, для добавления всех файлов юзай "git add ."
 "git commit -m "comment"" - залить файл на гит
+"git remote add origin https://github.com/AntonKink/antkin-rtech.git" - по какой ссылке подключиться
+"git push -u origin master" - пушаем наши коммиты на ссылку, запросит логин и пароль
+
+
