@@ -1,7 +1,7 @@
 "git init" - создать гит директорию на компе, писать в нужной папке 
 "git status" - в каком статусе находится наш репо
 	untracked - те гит их не отслеживает, для их добавления юзай "git add <file_name>"
-	unmodified - отслеживаемый гитом файл, готовый к заливу
+	unmodified - отслеживаемый гитом файл, готовый к заливуt
 	modified - измененный файл, его надо сделать unmodified, юзай комманду "git add <file_name>"
 	staged - когда файл уже добавлен, но был изменен, в таком случае если сделать коммит, то файл на гит будет добавлен в таком виде, в котором был добавлен коммандой "git add <file_name>" ранее, те unmodified
 
@@ -9,5 +9,8 @@
 "git commit -m "comment"" - залить файл на гит
 "git remote add origin https://github.com/AntonKink/antkin-rtech.git" - по какой ссылке подключиться
 "git push -u origin master" - пушаем наши коммиты на ссылку, запросит логин и пароль
+
+"git clone <https_link_on_project>" -скопировать репо с гита
+
 
 
