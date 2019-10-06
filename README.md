@@ -1,13 +1,17 @@
-Robotitejuhtimine ja tarkvara
+# Robotitejuhtimine ja tarkvara
 
-task 1
-	Introdusing to ROS
+## Task 1
 
-task 2
-	Creating pkg r2d2 and work with urdf
+[x] Introdusing to ROS
 
-task 3
-	ROS and roslaunch
+## Task 2
 
-task 4
-	...
+[x] Creating pkg r2d2 and work with urdf
+
+## Task 3
+
+[x] ROS and roslaunch
+
+## Task 4
+
+[ ] ...
