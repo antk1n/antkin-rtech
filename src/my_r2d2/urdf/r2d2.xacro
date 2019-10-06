@@ -47,9 +47,9 @@
   </link>
 
   <joint name="basetofootprint" type="fixed">
-    <parent link="base_link"/>
-    <child link="base_footprint"/>
-    <origin xyz="0 0 ${-((bodylen/2)+0.1+wheeldiam)}"/>
+    <parent link="base_footprint"/>
+    <child link="base_link"/>
+    <origin xyz="0 0 ${((bodylen/2)+0.1+wheeldiam)}"/>
   </joint>
 
   <xacro:macro name="wheel" params="prefix suffix reflect">
