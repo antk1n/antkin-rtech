@@ -47,9 +47,19 @@ Just my homework. All lectures, links and step-by-step solutins you can find [He
 - Fake navigator
 - Try to control our R2D2 by using the turtle_teleop_key
 
-### Task 4
+### Task 4 - Mounting a cam
 
--  ...
+- Preparing
+- Install ROS pkg for USB camera
+- Calibrate the camera for distance sensing
+- Install ROS package for tracking AR tags
+- Setup launch-files for launching USB camera and AR tracking
+- Use RViz for displaying camera images
+- Update R2D2’s description so that its lense link acts as the base for the camera
+
+### Task 5 - 
+
+- ...
 
 ## Other stuff
 

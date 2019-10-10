@@ -267,6 +267,14 @@
     <child link="lense"/>
     <origin xyz="0.001 0 0.001"/>
   </joint>
-
+  
+  <link name="eye">
+  </link>
+  
+  <joint name="eyetolens" type="fixed">
+    <parent link="lense"/>
+    <child link="eye"/>
+    <origin xyz="0 0 0" rpy="-1.57075 0 -1.57075"/>
+  </joint>
 
 </robot>
