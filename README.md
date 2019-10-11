@@ -3,10 +3,13 @@
 Just my homework. All lectures, links and step-by-step solutins you can find [Here](https://drive.google.com/drive/folders/1SabSH6ENSVP9zw2OI1sg-s1ps-3agV8t).
 
 ### My small course review (what is done):
-- small intro to ROS (task 1)
+- Small intro to ROS (task 1)
 - Created robot called R2D2 (task 2)
 - It can be vizuallized by RViz (task 2)
 - It can walk arround using node turtle_teleop_key (task 3)
+- It has a camera, whitch is simulating by laptop web (task 4)
+- Camera can recognize AR codes and its movements (task 4)
+- RViz can play rosbag files (task 5)
 
 ## Tasks:
 
@@ -57,8 +60,14 @@ Just my homework. All lectures, links and step-by-step solutins you can find [He
 - Use RViz for displaying camera images
 - Update R2D2’s description so that its lense link acts as the base for the camera
 
-### Task 5 - 
+### Task 5 - Rosbag files playback
 
+- Install Imu plugin
+- How to work with rosbag
+- How to use rosbag data
+- Setting up rviz 
+
+### Task 6 -
 - ...
 
 ## Other stuff
