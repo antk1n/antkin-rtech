@@ -67,7 +67,12 @@ Just my homework. All lectures, links and step-by-step solutins you can find [He
 - How to use rosbag data
 - Setting up rviz 
 
-### Task 6 -
+### Task 6 - Establishing Android Phone and ROS connection
+- Preparing
+- ROS control setup
+- Control Gazeebo using phone
+
+### Task 7 - ...
 - ...
 
 ## Other stuff
