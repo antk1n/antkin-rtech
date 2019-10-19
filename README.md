@@ -10,6 +10,7 @@ Just my homework. All lectures, links and step-by-step solutins you can find [He
 - It has a camera, whitch is simulating by laptop web (task 4)
 - Camera can recognize AR codes and its movements (task 4)
 - RViz can play rosbag files (task 5)
+- Gazeebo can be controlled by phone (task 6)
 
 ## Tasks:
 
