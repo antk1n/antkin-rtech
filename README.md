@@ -11,6 +11,7 @@ Just my homework. All lectures, links and step-by-step solutins you can find [He
 - Camera can recognize AR codes and its movements (task 4)
 - RViz can play rosbag files (task 5)
 - Gazeebo can be controlled by phone (task 6)
+- Robot can scan the world and after proper saving navigate there using his own map (task 7) 
 
 ## Tasks:
 
@@ -73,7 +74,14 @@ Just my homework. All lectures, links and step-by-step solutins you can find [He
 - ROS control setup
 - Control Gazeebo using phone
 
-### Task 7 - ...
+### Task 7 - Mapping and Navigation
+- Preparing
+- Robot and world env. simulation
+- Visualize robot view
+- Mapping
+- Navigation
+
+### Task 8 - ...
 - ...
 
 ## Other stuff
