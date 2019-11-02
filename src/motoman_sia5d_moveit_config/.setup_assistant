@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: motoman_sia5d_support
+    relative_path: urdf/sia5d.xacro
+    xacro_args: "--inorder "
+  SRDF:
+    relative_path: config/motoman_sia5d.srdf
+  CONFIG:
+    author_name: antkin-rtech
+    author_email: kinkanton@gmail.com
+    generated_timestamp: 1572718357

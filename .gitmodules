@@ -7,3 +7,19 @@
 [submodule "src/turtlebot3_simulations"]
 	path = src/turtlebot3_simulations
 	url = https://github.com/ROBOTIS-GIT/turtlebot3_simulations.git
+[submodule "src/panda_moveit_config"]
+	path = src/panda_moveit_config
+	url = https://github.com/ros-planning/panda_moveit_config.git
+	branch = melodic-devel
+[submodule "src/xarm_ros"]
+	path = src/xarm_ros
+	url = https://github.com/xArm-Developer/xarm_ros.git
+	branch = master
+[submodule "src/movegroup_interface_demo"]
+	path = src/movegroup_interface_demo
+	url = https://github.com/ut-ims-robotics/movegroup_interface_demo.git
+	branch = master
+[submodule "src/motoman"]
+	path = src/motoman
+	url = https://github.com/ros-industrial/motoman.git
+	branch = kinetic-devel
