@@ -12,6 +12,7 @@ Just my homework. All lectures, links and step-by-step solutins you can find [He
 - RViz can play rosbag files (task 5)
 - Gazeebo can be controlled by phone (task 6)
 - Robot can scan the world and after proper saving navigate there using his own map (task 7) 
+- Robot sia5d is working with simple cpp script, using moveit (task 8)
 
 ## Tasks:
 
@@ -81,7 +82,14 @@ Just my homework. All lectures, links and step-by-step solutins you can find [He
 - Mapping
 - Navigation
 
-### Task 8 - ...
+### Task 8 - Motion Planning with MOVEIT
+- Preparing
+- Introdusing to MOVEIT
+- MOVEGROUP c++ interface tutorial with UFactory XARM7
+- Setting up MOVEIT for Yaskawa sia5d
+- Task
+
+### Task 9 - Motion planning with dual manipulator system
 - ...
 
 ## Other stuff
