@@ -22,6 +22,33 @@
         <joint name="joint_t" value="0" />
         <joint name="joint_u" value="0" />
     </group_state>
+    <group_state name="pose_1" group="sia5">
+        <joint name="joint_b" value="0" />
+        <joint name="joint_e" value="0" />
+        <joint name="joint_l" value="0" />
+        <joint name="joint_r" value="0" />
+        <joint name="joint_s" value="-0.5" />
+        <joint name="joint_t" value="0" />
+        <joint name="joint_u" value="0" />
+    </group_state>
+    <group_state name="pose_3" group="sia5">
+        <joint name="joint_b" value="0" />
+        <joint name="joint_e" value="0" />
+        <joint name="joint_l" value="0" />
+        <joint name="joint_r" value="0" />
+        <joint name="joint_s" value="0.5" />
+        <joint name="joint_t" value="0" />
+        <joint name="joint_u" value="0" />
+    </group_state>
+    <group_state name="pose_2" group="sia5">
+        <joint name="joint_b" value="0" />
+        <joint name="joint_e" value="0" />
+        <joint name="joint_l" value="-0.5" />
+        <joint name="joint_r" value="0" />
+        <joint name="joint_s" value="0" />
+        <joint name="joint_t" value="0" />
+        <joint name="joint_u" value="0" />
+    </group_state>
     <!--END EFFECTOR: Purpose: Represent information about an end effector.-->
     <end_effector name="end-effector" parent_link="tool0" group="sia5" />
     <!--VIRTUAL JOINT: Purpose: this element defines a virtual joint between a robot link and an external frame of reference (considered fixed with respect to the robot)-->
